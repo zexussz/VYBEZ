@@ -22,7 +22,7 @@
 
 ## 💜 Mi ez pontosan?
 
-**VYBEZ** egy natív Windows desktop app, ami a [vybezapp.fejlessz.hu](http://vybezapp.fejlessz.hu) zenelejátszót csomagolja be egy Electron wrapperbe — tálcaikonnal, Discord Rich Presence-szel és egy saját, kód-védett telepítővel. Reklám nélküli zenehallgatás, modern UI, teljes asztali integráció. 🔥
+**VYBEZ** egy natív Windows desktop app, ami a zenelejátszó weboldalt csomagolja be egy Electron wrapperbe — tálcaikonnal, Discord Rich Presence-szel és egy saját, kód-védett telepítővel. Reklám nélküli zenehallgatás, modern UI, teljes asztali integráció. 🔥
 
 ## ✨ Funkciók
 
@@ -47,7 +47,7 @@ A weboldal adja a UI-t és a zenei logikát, az app ezt egészíti ki natív des
 
 - **🎮 Discord Rich Presence** — saját parsing motor tisztítja a nyers YouTube címeket (`(Official Video)`, `[Lyrics]`, `feat. ...`, remix/edit/live taggek stb.), másodperc-pontos progress barral és a track thumbnailjével mint nagy borítóképpel.
 - **🗂️ Tálcaikon (Tray)** — ablak elrejtése/megnyitása, kilépés, minden magyarul.
-- **🪟 Squirrel-startup kezelés** — natív Windows installer/frissítő logika.
+- **📦 Squirrel-startup kezelés** — natív Windows installer/frissítő logika.
 - **🔐 Egyedi, kód-védett telepítő** — a NSIS installer egy 5 jegyű kódot kér telepítés előtt, amit élőben ellenőriz a szerverrel.
 
 <p align="center">
@@ -58,7 +58,7 @@ A weboldal adja a UI-t és a zenei logikát, az app ezt egészíti ki natív des
 
 - **Electron** `35.1.4`
 - **discord-rpc** — natív Discord integráció
-- **electron-builder** + **electron-forge** — dupla build pipeline (NSIS / deb / rpm / zip)
+- **electron-builder** build pipeline (NSIS)
 - **NSIS + nsDialogs** — egyedi, custom telepítő lépés
 
 ## 📁 Projekt felépítés
