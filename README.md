@@ -81,9 +81,9 @@ VYBEZAPP/
 
 ## 📦 Telepítés
 
-1. Töltsd le a legfrissebb installert: [vybezapp.fejlessz.hu](http://vybezapp.fejlessz.hu/letöltés)
+1. Töltsd le a legfrissebb installert: [itt!](http://vybezapp.fejlessz.hu/letöltés)
 2. Futás közben írd be az **5 jegyű telepítőkódot** — a telepítő ezt élőben ellenőrzi a szerverrel.
-3. Kész — irány a VYBEZ! 🎧
+3. Kész - irány a zenehallgatás! 🎧
 
 > ⚠️ Jelenleg csak **Windows** alatt elérhető.
 
