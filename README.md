@@ -29,7 +29,7 @@
 | | |
 |---|---|
 | 🎵 | **320+ zenetalálat** — gyors, modern kereső |
-| ⬇️ | **Zeneletöltés** közvetlenül mp3 formátumban |
+| ⬇️ | **Zeneletöltés** — közvetlenül mp3 formátumban |
 | 💜 | **Kedvencek** — mentsd el, amit újra és újra hallgatnál |
 | 📂 | **Playlistek** — saját playlist, saját vibe |
 | 🎨 | **Téma váltás** — alakítsd a kinézetet saját stílusra |
