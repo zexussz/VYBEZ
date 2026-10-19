@@ -8,7 +8,7 @@
 
 *Your music. Your vibe.*
 
-[![Version](https://img.shields.io/badge/version-9.0.3-7c3aed?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/version-9.3.0-7c3aed?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](#)
 [![Electron](https://img.shields.io/badge/Electron-35.1.4-47848F?style=for-the-badge&logo=electron)](#)
 [![Discord RPC](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2?style=for-the-badge&logo=discord)](#)
