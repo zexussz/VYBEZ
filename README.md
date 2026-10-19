@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](#)
 [![Electron](https://img.shields.io/badge/Electron-35.1.4-47848F?style=for-the-badge&logo=electron)](#)
 [![Discord RPC](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2?style=for-the-badge&logo=discord)](#)
-[![License](https://img.shields.io/badge/license-UNLICENSED-black?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/license-VYBEZ%20LICENSE-black?style=for-the-badge)](#)
 
 [🌐 Weboldal](http://vybezapp.fejlessz.hu) · [✨ Funkciók](#-funkciók) · [📦 Telepítés](#-telepítés)
 
@@ -89,7 +89,7 @@ VYBEZAPP/
 
 ## 📜 Licenc
 
-`UNLICENSED` — privát projekt, minden jog fenntartva.
+`LICENSED` — privát projekt, minden jog fenntartva.
 
 ---
 
