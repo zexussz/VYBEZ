@@ -43,11 +43,10 @@
 
 ## 🖥️ Amit az Electron wrapper hoz a buliba
 
-A weboldal adja a UI-t és a zenei logikát, az app ezt egészíti ki natív desktop integrációkkal:
+A weboldal adja a UI-t és a zenei logikát, a program ezt egészíti ki natív desktop integrációkkal:
 
 - **🎮 Discord Rich Presence** — saját parsing motor tisztítja a nyers YouTube címeket (`(Official Video)`, `[Lyrics]`, `feat. ...`, remix/edit/live taggek stb.), másodperc-pontos progress barral és a track thumbnailjével mint nagy borítóképpel.
 - **🗂️ Tálcaikon (Tray)** — ablak elrejtése/megnyitása, kilépés, minden magyarul.
-- **📦 Squirrel-startup kezelés** — natív Windows installer/frissítő logika.
 - **🔐 Egyedi, kód-védett telepítő** — a NSIS installer egy 5 jegyű kódot kér telepítés előtt, amit élőben ellenőriz a szerverrel.
 
 <p align="center">
@@ -74,7 +73,7 @@ VYBEZAPP/
 
 ## ⚙️ Hogyan működik?
 
-1. A főablak betölti a zenelejátszó weboldalt — ez maga a player UI.
+1. A főablak betölti a zenelejátszó oldalt — ez maga a player UI.
 2. A `preload.js` egy `window.electronAPI.sendMusicUpdate(track)` függvényt tesz elérhetővé a weboldal JS-ének, biztonságos `contextBridge` mögött.
 3. Amikor a weboldal zeneváltást küld, a main process letisztítja a számcímet, és frissíti a Discord Activityt — élő progress barral és borítóképpel.
 4. Lejátszás nélkül egy stílusos "idle" presence fut: *"with vibes $"* / *"made by 𝖔𝖑𝖎𝖛€𝖊𝖗"*.
@@ -83,7 +82,7 @@ VYBEZAPP/
 
 1. Töltsd le a legfrissebb installert: [itt!](http://vybezapp.fejlessz.hu/letöltés)
 2. Futás közben írd be az **5 jegyű telepítőkódot** — a telepítő ezt élőben ellenőrzi a szerverrel.
-3. Kész - irány a zenehallgatás! 🎧
+3. Irány a zenehallgatás! 🎧
 
 > ⚠️ Jelenleg csak **Windows** alatt elérhető.
 
