@@ -1,7 +1,7 @@
 # VYBEZ — PROPRIETARY SOFTWARE LICENSE AND TERMS OF USE
 
-**Version:** 1.0  
-**Copyright:** © 2026 [Your Name / Zexussz]. All rights reserved.  
+**Version:** 9.3.0  
+**Copyright:** © 2026 𝖔𝖑𝖎𝖛€𝖊𝖗. All rights reserved.  
 **Software:** VYBEZ, including its official installer, application, interface, original source code, original visual assets, animations, themes and related materials.
 
 ## 1. Ownership and copyright
